@@ -1,0 +1,193 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "nome": "Ficção"
+    },
+    {
+      "id": 2,
+      "nome": "Não Ficção"
+    },
+    {
+      "id": 3,
+      "nome": "História"
+    },
+    {
+      "id": 4,
+      "nome": "Ficção"
+    },
+    {
+      "id": 5,
+      "nome": "terror"
+    },
+    {
+      "id": 6,
+      "nome": "comedia"
+    },
+    {
+      "id": 7,
+      "nome": "terror"
+    },
+    {
+      "id": 8,
+      "nome": "romance"
+    },
+    {
+      "id": 9,
+      "nome": "fantasia"
+    },
+    {
+      "id": 10,
+      "nome": "animação"
+    },
+    {
+      "id": 11,
+      "nome": "suspense"
+    },
+    {
+      "id": 12,
+      "nome": "comedia romantica"
+    },
+    {
+      "id": 13,
+      "nome": "drama"
+    }
+  ],
+  "livros": [
+    {
+      "titulo": "cadeira elevada",
+      "autor": "",
+      "anoPublicacao": 2305,
+      "isbn": "978-85-359-2765-7",
+      "disponivel": true,
+      "categoriaId": 5,
+      "id": 1
+    },
+    {
+      "id": 2,
+      "titulo": "Origens",
+      "autor": "Neil deGrasse Tyson",
+      "anoPublicacao": 2017,
+      "isbn": "978-85-359-0650-4",
+      "disponivel": true,
+      "categoriaId": 2
+    },
+    {
+      "titulo": "mesa voadora",
+      "autor": "luisa",
+      "anoPublicacao": 2687,
+      "isbn": "978-85-359-2737-7",
+      "disponivel": true,
+      "categoriaId": 1,
+      "id": 3
+    },
+    {
+      "titulo": "Economia nas comunidade",
+      "autor": "Gabriel Lima",
+      "anoPublicacao": 2030,
+      "isbn": "978-85-359-0277-4",
+      "disponivel": true,
+      "categoriaId": 3,
+      "id": 4
+    },
+    {
+      "titulo": "treloso",
+      "autor": "fernando",
+      "anoPublicacao": 2020,
+      "isbn": "978-85-359-0288-4",
+      "disponivel": true,
+      "categoriaId": 3,
+      "id": 5
+    },
+    {
+      "titulo": "treloso",
+      "autor": "fernando",
+      "anoPublicacao": 2020,
+      "isbn": "978-85-359-0288-4",
+      "disponivel": true,
+      "categoriaId": 3,
+      "id": 6
+    },
+    {
+      "titulo": "celular",
+      "autor": "jhonatas",
+      "anoPublicacao": 2027,
+      "isbn": "978-85-359-9888-4",
+      "disponivel": true,
+      "categoriaId": 3,
+      "id": 7
+    },
+    {
+      "titulo": "como ser feio",
+      "autor": "fernando",
+      "anoPublicacao": 2029,
+      "isbn": "978-85-359-2588-4",
+      "disponivel": true,
+      "categoriaId": 3,
+      "id": 8
+    },
+    {
+      "titulo": "copo de café",
+      "autor": "dayvid",
+      "anoPublicacao": 2089,
+      "isbn": "978-85-359-2688-7",
+      "disponivel": true,
+      "categoriaId": 3,
+      "id": 9
+    },
+    {
+      "titulo": "promise",
+      "autor": "Diego",
+      "anoPublicacao": 2305,
+      "isbn": "978-85-359-2724-7",
+      "disponivel": true,
+      "categoriaId": 1,
+      "id": 10
+    },
+    {
+      "titulo": "promise",
+      "autor": "Diego",
+      "anoPublicacao": 2305,
+      "isbn": "978-85-359-2724-7",
+      "disponivel": true,
+      "categoriaId": 5,
+      "id": 11
+    },
+    {
+      "titulo": "promise",
+      "autor": "Diego",
+      "anoPublicacao": 2305,
+      "isbn": "978-85-359-2724-7",
+      "disponivel": true,
+      "categoriaId": 3,
+      "id": 12
+    },
+    {
+      "titulo": "teclado humano",
+      "autor": "Pedro",
+      "anoPublicacao": 2305,
+      "isbn": "978-85-359-2765-7",
+      "disponivel": true,
+      "categoriaId": 3,
+      "id": 13
+    },
+    {
+      "titulo": "mesa voadora",
+      "autor": "luisa",
+      "anoPublicacao": 2687,
+      "isbn": "978-85-359-2737-7",
+      "disponivel": true,
+      "categoriaId": 13,
+      "id": 14
+    },
+    {
+      "titulo": "mesa voadora",
+      "autor": "luisa",
+      "anoPublicacao": 2687,
+      "isbn": "978-85-359-2737-7",
+      "disponivel": true,
+      "categoriaId": 13,
+      "id": 15
+    }
+  ]
+}
